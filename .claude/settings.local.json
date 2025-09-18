@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter create:*)",
+      "Bash(where flutter)",
+      "Read(//d/ekran görüntüsü/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
